@@ -3,7 +3,7 @@
 echo "Welcome to Rio de Janeiro!!<BR/>";
 
 
-<a style="font-face:'Verdana'; font-size:10; color:#FF6600;
+<a style="font-face:'Verdana'; font-size:10; color:#FF6600";
 		  </a>
 
 ?>
